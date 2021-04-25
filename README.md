@@ -6,4 +6,8 @@ Seeing that it could be achieved in Factorio's circuit system, I thought it woul
 <img title="barnsely animation" alt="an animation of a barnsely fern growing"  src="https://speen.space/images/fern.gif" width=300>
 
 ## more info
-More information on the resources and research I did for this project can be found on my [website](https://speen.space/barnsely_fern).
+I read a lot for this project, here's a short list of links that I found particularly useful.
+ - [The wikipedia article on Barnsley ferns](https://en.wikipedia.org/wiki/Barnsley_fern)
+ - [Python's generator documentation](https://docs.python.org/3/c-api/gen.html)
+ - [matplotlib's animation documentation](https://matplotlib.org/stable/api/animation_api.html?highlight=animation#module-matplotlib.animation)
+ - [This matplotlib tutorial which also plots a Barnsely fern](https://scipython.com/book/chapter-7-matplotlib/examples/the-barnsley-fern/)

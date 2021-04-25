@@ -16,7 +16,7 @@ def Fern():
     i = 0
 
     while True:
-        # choosing a random function with numpy
+        # choosing a random function with random.choices
         f = choices(fs, weights=(0.01,0.85,0.07,0.07))[0]
 
         # performing transformation and yielding
