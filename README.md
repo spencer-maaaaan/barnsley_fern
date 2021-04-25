@@ -3,7 +3,7 @@ I saw an interesting post on [/r/factorio](https://www.reddit.com/r/factorio/com
 
 Seeing that it could be achieved in Factorio's circuit system, I thought it wouldn't be too hard to try and render a Barnsely Fern in python's popular plotting library, matplotlib. These are the results of those efforts.
 
-![Animation of a growing Barnsely fern](https://speen.space/barnsely_fern/fern.gif "Animation of a growing Barnsely fern")
+<img title="barnsely animation" alt="an animation of a barnsely fern growing"  src="https://speen.space/images/fern.gif" width=300>
 
 ## more info
 More information on the resources and research I did for this project can be found on my [website](https://speen.space/barnsely_fern).
